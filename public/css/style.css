@@ -1,0 +1,44 @@
+body {
+	height:100vh;
+	background-color: #060e39;
+}
+.heads {
+	background: linear-gradient(200deg, yellow, #e95b70); 
+	color:white;
+	height:300px;
+}
+#tableH2 {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#alert {
+	border:1px solid black;
+	border-left:15px solid red;
+	padding:20px;
+}
+.font-bold {
+	font-weight: bold;
+}
+.btn-height {
+	height:50px;
+}
+#AjoutDepense {
+	padding:20px;
+	background-color: white;
+	margin-top:-40px;
+	
+	border:1px solid #cecdcd;
+}
+.btn-voir {
+	width:300px;
+}
+#tdTotal {
+	font-size:20px;
+}
+.tableL {
+	margin-top:-100px;
+	background-color: white;
+	padding:20px;
+	border:1px solid #cecdcd;
+}
